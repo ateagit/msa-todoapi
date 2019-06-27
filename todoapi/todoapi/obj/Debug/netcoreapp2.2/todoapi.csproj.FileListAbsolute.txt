@@ -1,0 +1,14 @@
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\bin\Debug\netcoreapp2.2\todoapi.deps.json
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\bin\Debug\netcoreapp2.2\todoapi.runtimeconfig.json
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\bin\Debug\netcoreapp2.2\todoapi.runtimeconfig.dev.json
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\bin\Debug\netcoreapp2.2\todoapi.dll
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\bin\Debug\netcoreapp2.2\todoapi.pdb
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.csprojAssemblyReference.cache
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.csproj.CoreCompileInputs.cache
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.RazorAssemblyInfo.cache
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.RazorAssemblyInfo.cs
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.AssemblyInfoInputs.cache
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.AssemblyInfo.cs
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.RazorTargetAssemblyInfo.cache
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.dll
+C:\Users\alanu\Documents\msa-todo-api\todoapi\todoapi\obj\Debug\netcoreapp2.2\todoapi.pdb
