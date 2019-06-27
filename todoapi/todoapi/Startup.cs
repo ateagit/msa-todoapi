@@ -33,7 +33,7 @@ namespace todoapi
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info { Title = "TITLE", Version = "v1" });
+                c.SwaggerDoc("v1", new Info { Title = "Task API", Version = "v1" });
             });
 
         }
